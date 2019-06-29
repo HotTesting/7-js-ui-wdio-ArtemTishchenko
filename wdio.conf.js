@@ -14,7 +14,7 @@ const wdioConfig = {
   hostname: "localhost",
   port: 4444,
   path: "/wd/hub",
-  specs: [SPECS],
+  specs: ["./tests/*.ts"],
   sync: true,
   logLevel: "silent",
   services: ["selenium-standalone"],
