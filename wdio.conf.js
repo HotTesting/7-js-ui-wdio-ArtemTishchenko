@@ -25,7 +25,7 @@ const wdioConfig = {
   ],
   baseUrl: "http://ip-5236.sunline.net.ua:38015",
   framework: "mocha",
-
+  
   // multiremote
 
   // capabilities: {

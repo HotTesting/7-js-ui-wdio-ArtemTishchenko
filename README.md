@@ -1,9 +1,11 @@
 
 Enable CI builds for your repo, go to 
 https://travis-ci.org/account/repositories
-find your repo in list and turn on builds for it
+find your repo in list and turn on builds for it test
 
 See your build results here - https://travis-ci.org/StartITProtractorJS
+
+[![Build Status](https://travis-ci.com/ArtemTishchenko/7-js-ui-wdio-ArtemTishchenko.svg?branch=master)](https://travis-ci.com/ArtemTishchenko/7-js-ui-wdio-ArtemTishchenko)
 
 # startit js ui automation course
 Demo project for startit students
