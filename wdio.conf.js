@@ -31,7 +31,7 @@ const wdioConfig = {
   // capabilities: {
   //   user1: {
   //     capabilities: {
-  //       browserName: "chrome"
+  //       browserName: "chroblalbame"
   //     }
   //   },
   //   user2: {
